@@ -1,92 +1,37 @@
-<div align="center">
+# Hi, I'm Hajar 👋
 
-# Hajar Chekrouni El Merouani
+I build SaaS products and lead digital transformation programs — mostly in healthcare, logistics, and education.
 
-**Product Manager · Digital Transformation Consultant · Doctoral Researcher**
+Most of my work sits at the intersection of product strategy, AI, and operational systems: defining what to build, why it matters, and how to ship it in complex organizations.
 
-*Building intelligent systems at the intersection of AI, SaaS & industrial knowledge engineering*
+I also do academic research on knowledge engineering and intelligent maintenance systems — because I believe the gap between research and production is where the most interesting problems live.
+
+---
+
+## What I work on
+
+- **SaaS product development**: from zero to deployed — MyCabinet (healthcare), uMobility (academic mobility)
+- **Digital transformation consulting**: process digitization, Microsoft 365, Power Platform, change management
+- **AI & ontologies**: OWL/RDF/SPARQL, knowledge graphs, intelligent maintenance (KDM paradigm)
+- **Data & forecasting**: XGBoost, Python, predictive analytics for logistics and port operations
+- **Presentation & training design**: Microsoft 365 suite, AI literacy programs for non-technical teams
+- **Freelance missions**: via Loop Creative Studio on Malt — strategy, slides, digital tools
+
+---
+
+## About Me
+
+- **Directrice Générale** at [MediaCaris](https://mediacaris.com) — building B2B SaaS platforms from Tanger, Morocco
+- **PhD Candidate** at Laboratoire des Technologies Innovantes (LTI), Université Abdelmalek Essaâdi — thesis on ontology standardization for intelligent maintenance systems
+- **Paper accepted at DATA'26** (Rome) — *"A Systematic Review of Ontology-Based Approaches for Intelligent Maintenance Systems"*
+- **Poster accepted at OxML 2026** (Oxford) — targeting IEEE Transactions on Industrial Informatics for journal extension
+- Former intern at **Tanger Med Engineering** and **APM Terminals** — deep familiarity with port logistics and smart port challenges
+
+---
+
+## 🚢 Open to
+
+Building in public more on port logistics intelligence, AI-assisted maintenance, and SaaS for underserved professional markets in Morocco and the Maghreb. If you're working on something in that space — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--chekrouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-chekrouni-el-merouani)
 [![Malt](https://img.shields.io/badge/Freelance-Loop_Creative_Studio-FC4E4E?style=flat-square)](https://malt.fr)
-[![Location](https://img.shields.io/badge/📍_Tanger,_Morocco-1D9E75?style=flat-square&logoColor=white)]()
-
-</div>
-
----
-
-### 👩‍💻 What I build
-
-Shipping two B2B SaaS platforms from Tanger:
-
-| Product | Description | Stack |
-|--------|-------------|-------|
-| 🏥 **MyCabinet** | Medical practice management for Moroccan healthcare practitioners | Next.js · Supabase · Vercel |
-| 🎓 **uMobility** | International student mobility & academic partnership management | SaaS · REST APIs |
-
----
-
-### 🔬 Research
-
-**PhD Candidate** · Laboratory of Innovative Technologies (LTI) · Université Abdelmalek Essaâdi
-
-> *Thesis: Ontology standardization for intelligent maintenance systems — Knowledge-Driven Maintenance (KDM) paradigm*
-
-- 📄 **DATA'26** (Rome) — *"A Systematic Review of Ontology-Based Approaches for Intelligent Maintenance Systems"*
-- 🧩 **OxML 2026** (Oxford) — Poster accepted
-- 🎯 Target journal: **IEEE Transactions on Industrial Informatics**
-- 🛠 Stack: OWL · RDF · SPARQL · Protégé · VOSviewer · PRISMA 2020
-
----
-
-### 🚢 Featured projects
-
-<a href="https://github.com/hajar-chekrouni/ferry-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-chekrouni&repo=ferry-app&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/hajar-chekrouni/medsmiley-cx-pulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-chekrouni&repo=medsmiley-cx-pulse&theme=default&hide_border=true" />
-</a>
-
----
-
-### 🛠 Expertise
-
-```
-Digital Transformation    ████████████████████  Product Management & Agile (SAFe)
-Microsoft 365 / Power Fx  ████████████████░░░░  Knowledge Engineering & Ontologies
-AI & Prompt Engineering   ████████████████████  Data & ML (XGBoost, Python)
-Next.js / Supabase        ██████████████░░░░░░  OWL · RDF · SPARQL · Protégé
-```
-
-Freelance via **Loop Creative Studio** on [Malt](https://malt.fr)
-
----
-
-### 🚢 Port Congestion Study — Tanger Med Complex
-
-> ML forecasting (XGBoost · MAPE 5.4%) + interactive dashboard built from public data
-> 5-workstream digital transformation roadmap · 73–118M MAD budget
-> 2030 saturation threshold confirmed at 95% confidence
-
-*Repository coming soon*
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajar-chekrouni&show_icons=true&hide_border=true&theme=default&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hajar-chekrouni&hide_border=true&theme=default" height="150" />
-</div>
-
----
-
-### 🤝 Let's connect
-
-- 💼 Open to consulting missions in **digital transformation · product management · Microsoft 365**
-- 🎓 Looking for academic collaborations in **KDM · intelligent maintenance · ontologies**
-- 📬 [LinkedIn](https://www.linkedin.com/in/hajar-chekrouni-el-merouani) · [Malt](https://malt.fr)
-
-<div align="center">
-  <sub>Built with purpose · Tanger, Morocco 🇲🇦</sub>
-</div>
