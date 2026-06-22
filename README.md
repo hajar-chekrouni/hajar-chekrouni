@@ -25,5 +25,5 @@ I also do academic research on knowledge engineering and intelligent maintenance
 
 🚀 Working on a digital transformation challenge in Morocco or the Maghreb? I'd love to hear about it and share input. Open to consulting missions in product management and AI-powered process digitization.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--chekrouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-chekrouni-el-merouani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--chekrouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-chekrouni-993a03107/)
 [![Malt](https://img.shields.io/badge/Freelance-Loop_Creative_Studio-FC4E4E?style=flat-square)](https://malt.fr)
