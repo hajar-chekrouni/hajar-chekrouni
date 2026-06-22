@@ -23,7 +23,7 @@ I also do academic research on knowledge engineering and intelligent maintenance
 - Poster accepted at OxML 2026 (Oxford) — targeting IEEE Transactions on Industrial Informatics for journal extension
 - Ex-consultant at Tanger Med Engineering and APM Terminals — deep familiarity with port logistics and smart port challenges
 
-Building in public more on port logistics intelligence, AI-assisted maintenance, and SaaS for underserved professional markets in Morocco and the Maghreb. If you're working on something in that space — let's talk.
+🚀 Working on a digital transformation challenge in Morocco or the Maghreb? I'd love to hear about it and share input. Open to consulting missions in product management, Microsoft 365, and AI-powered process digitization.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--chekrouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-chekrouni-el-merouani)
 [![Malt](https://img.shields.io/badge/Freelance-Loop_Creative_Studio-FC4E4E?style=flat-square)](https://malt.fr)
