@@ -16,7 +16,7 @@
 
 ### 👩‍💻 What I build
 
-Co-founder of **[MediaCaris](https://mediacaris.com)** — shipping two B2B SaaS platforms from Tanger:
+Shipping two B2B SaaS platforms from Tanger:
 
 | Product | Description | Stack |
 |--------|-------------|-------|
