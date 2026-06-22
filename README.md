@@ -21,7 +21,7 @@ I also do academic research on knowledge engineering and intelligent maintenance
 - PhD Candidate at Laboratoire des Technologies Innovantes (LTI), Université Abdelmalek Essaâdi — thesis on ontology standardization for intelligent maintenance systems
 - Paper accepted at DATA'26 (Rome) — *"A Systematic Review of Ontology-Based Approaches for Intelligent Maintenance Systems"*
 - Poster accepted at OxML 2026 (Oxford) — targeting IEEE Transactions on Industrial Informatics for journal extension
-- Former intern at Tanger Med Engineering and APM Terminals — deep familiarity with port logistics and smart port challenges
+- Ex-consultant at Tanger Med Engineering and APM Terminals — deep familiarity with port logistics and smart port challenges
 
 Building in public more on port logistics intelligence, AI-assisted maintenance, and SaaS for underserved professional markets in Morocco and the Maghreb. If you're working on something in that space — let's talk.
 
